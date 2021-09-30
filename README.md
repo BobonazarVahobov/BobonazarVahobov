@@ -11,7 +11,7 @@
 
 ## 📫 How to reach me
 <div align = 'center'>
-  <a href='bobonazarvahobov@gmail.com'><img src='logos/mail.svg' height='50px'></a>
+  <a href='mailto:bobonazarvahobov@gmail.com'><img src='logos/mail.svg' height='50px'></a>
   <a href='https://www.facebook.com/bobonazar.vahobov'><img src='logos/facebook.svg' height='50px'></a>
   <a href='https://t.me/BobonazarVakhobov/'><img src='logos/telegram.svg' height='50px'></a>
   <a href='https://www.linkedin.com/in/bobonazar-vahobov/'><img src='logos/linkedin.svg' height='50px'></a>
