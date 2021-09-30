@@ -2,17 +2,19 @@
 
 - 🔭 I’m currently working on building a dynamic website
 - 🌱 I’m currently learning Java from [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-- 📫 How to reach me: ***bobonazarvahobov@gmail.com***
+-  How to reach me: ***bobonazarvahobov@gmail.com***
 
 ## Projects
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
 
 
-<div align = 'center'>
-  <a href='facebok_link'><img src='logos/facebook.svg'></a>
-  <a href='telegram_link'><img src='logos/telegram.svg'></a>
-  <a href='linkedin_link'><img src='logos/linkedin.svg'></a>
 
+## 📫 How to reach me
+<div align = 'center'>
+  <a href='bobonazarvahobov@gmail.com'><img src='logos/gmail.svg' height='50px'></a>
+  <a href='https://www.facebook.com/bobonazar.vahobov'><img src='logos/facebook.svg' height='50px'></a>
+  <a href='https://t.me/BobonazarVakhobov/'><img src='logos/telegram.svg' height='50px'></a>
+  <a href='https://www.linkedin.com/in/bobonazar-vahobov/'><img src='logos/linkedin.svg' height='50px'></a>
 </div>  
   
 <!--
