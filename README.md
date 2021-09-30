@@ -9,7 +9,10 @@
 
 
 <div align = 'center'>
-  
+  <a href='facebok_link'><img src='logos/facebook.svg'></a>
+  <a href='telegram_link'><img src='logos/telegram.svg'></a>
+  <a href='linkedin_link'><img src='logos/linkedin.svg'></a>
+
 </div>  
   
 <!--
