@@ -1,5 +1,17 @@
-### Hi there 👋
+# Hi there 👋 I'm Bob
 
+- 🔭 I’m currently working on building a dynamic website
+- 🌱 I’m currently learning Java from [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+- 📫 How to reach me: ***bobonazarvahobov@gmail.com***
+
+## Projects
+- [htmlga oid](link)
+
+
+<div align = 'center'>
+  
+</div>  
+  
 <!--
 **BobonazarVahobov/BobonazarVahobov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
