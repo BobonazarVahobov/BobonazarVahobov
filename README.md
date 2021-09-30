@@ -15,6 +15,7 @@
   <a href='https://www.facebook.com/bobonazar.vahobov'><img src='logos/facebook.svg' height='50px'></a>
   <a href='https://t.me/BobonazarVakhobov/'><img src='logos/telegram.svg' height='50px'></a>
   <a href='https://www.linkedin.com/in/bobonazar-vahobov/'><img src='logos/linkedin.svg' height='50px'></a>
+  <a href='https://www.hackerrank.com/bobonazarvahobov'><img src='logos/hacker-rank.svg' height='50px'></a>
 </div>  
   
 <!--
