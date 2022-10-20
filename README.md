@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Bob
 
-- 🔭 I’m currently working on building a dynamic website
-- 🌱 I’m currently learning Java from [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-- 💬 Ask me about Java programming and Web programming
+- 🔭 I’m currently working on solving leetcode problems in Python
+- 🌱 I'm learning Data Structures and Competitive Programming
+- 💬 Ask me about Python programming and Web programming
 
 ## 🔭 Projects
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
@@ -15,7 +15,6 @@
   <a href='https://www.facebook.com/bobonazar.vahobov'><img src='logos/facebook.svg' height='50px'></a>
   <a href='https://t.me/BobonazarVakhobov/'><img src='logos/telegram.svg' height='50px'></a>
   <a href='https://www.linkedin.com/in/bobonazar-vahobov/'><img src='logos/linkedin.svg' height='50px'></a>
-  <a href='https://www.hackerrank.com/bobonazarvahobov'><img src='logos/hacker-rank.svg' height='50px'></a>
 </div>  
   
 <!--
