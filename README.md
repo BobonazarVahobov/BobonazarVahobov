@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Bob
 
 - 🔭 I’m currently working on solving leetcode problems in Python
-- 🌱 I'm learning Data Structures and Competitive Programming
+- 🌱 I'm learning Data Structures and Machine Learning
 - 💬 Ask me about Python programming and Web programming
 
 ## 🔭 Projects
