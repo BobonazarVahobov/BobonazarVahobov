@@ -7,6 +7,11 @@
 ## 🔭 Projects
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
 
+## Coding accounts
+- [HackerRank](https://www.hackerrank.com/bobonazarvahobov/)
+- [LeetCode](https://leetcode.com/bobonazarvahobov/)
+
+
 
 
 ## 📫 How to reach me
