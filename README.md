@@ -9,7 +9,7 @@
 
 ## Coding accounts
 - [HackerRank](https://www.hackerrank.com/bobonazarvahobov/)
-- [LeetCode](https://leetcode.com/bobonazarvahobov/)
+- [LeetCode](https://leetcode.com/u/bobonazar35/)
 
 
 
