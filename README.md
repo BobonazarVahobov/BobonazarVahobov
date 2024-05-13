@@ -8,7 +8,7 @@
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
 
 ## Coding accounts
-- [HackerRank](https://www.hackerrank.com/bobonazarvahobov/)
+- [HackerRank](https://www.hackerrank.com/profile/bobonazar)
 - [LeetCode](https://leetcode.com/u/bobonazar35/)
 
 
