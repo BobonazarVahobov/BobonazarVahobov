@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Bob
 
-- 🔭 I’m currently working on solving leetcode problems in Python
-- 🌱 I'm learning Data Structures and Machine Learning
-- 💬 Ask me about Python programming and Web programming
+- 🔭 I’m currently working on building Regression and Classification Machine Learning models using PyTorch
+- 🌱 I'm learning various Machine Learning Algorithms as well as Deep Neural Networks
+- 💬 Ask me about Machine Learning programming, Python and Web Programming
 
 ## 🔭 Projects
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
