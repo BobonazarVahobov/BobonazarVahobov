@@ -6,6 +6,9 @@
 
 ## 🔭 Projects
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
+- [Flight Price Prediction](https://github.com/b0b0nazar/Flight_Price_Prediction/)
+- [Chronic Kidney Disease Classification](https://github.com/b0b0nazar/Chronic_Kidney_Disease_Classification/)
+- [Hotel Booking Cancellation Prediction](https://github.com/b0b0nazar/Cancellation_of_Hotel_Booking_Prediction/)
 
 ## Coding accounts
 - [HackerRank](https://www.hackerrank.com/profile/bobonazar)
