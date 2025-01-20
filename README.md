@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Bob
 
-- 🔭 I’m currently working on building Regression and Classification Machine Learning models using PyTorch
-- 🌱 I'm learning various Machine Learning Algorithms as well as Deep Neural Networks
-- 💬 Ask me about Machine Learning programming, Python and Web Programming
+- 🔭 I’m currently researching on Multimodal Hetrogenous Federated Learning as a graduate research assistant at SKKU.
+- 🌱 I'm learning and researching on Computer Vision(ViT), Federated Learning, Multiodal Fusion Techniques, Finetuning Foundation Models, and etc.
+- 💬 Ask me about above topics, and hopefully try to upload new projects soon!
 
 ## 🔭 Projects
 - [Programming Tutorials Webpage](https://bobonazarvahobov.github.io/Programming-Tutorials-Website/)
